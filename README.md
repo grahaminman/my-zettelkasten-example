@@ -1,4 +1,4 @@
-# My Zettelkasten Example (Zettlr-Ready)
+# My Zettelkasten Example (Zettlr-Ready - Created with help from AI)
 
 Realistic Markdown-based Zettelkasten for note-taking with links, IDs, and hubs.
 

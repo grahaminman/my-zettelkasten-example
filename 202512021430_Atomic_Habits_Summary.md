@@ -16,5 +16,5 @@ Key ideas:
 Links:
 ← [[202512030900_Productivity_Hub]]
 → [[202512021445_Pomodoro_Technique]] (pairs well with focused work blocks)
-→ [[202512021530_Deliberate_Practice]]
-→ [[202512021545_Spaced_Repetition]]
+→ [[202512021530 Deliberate Practice]]
+→ [[202512021545 Spaced Repetition]]

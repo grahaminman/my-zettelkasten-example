@@ -1,6 +1,6 @@
 ---
-title-: Pareto Principle
-ID-: 202512021615
+title: Pareto Principle
+id: 202512021615
 tags:
   - Note Taking
   - Zettlr

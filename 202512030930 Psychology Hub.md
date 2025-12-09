@@ -1,6 +1,6 @@
 ---
 title-: Psychology Hub
-ID-: 202512030930
+id: 202512030930
 tags:
   - Note Taking
   - Zettlr
